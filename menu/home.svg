@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg321"
+   sodipodi:docname="home.svg"
+   inkscape:export-filename="home.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview323"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="12.414927"
+     inkscape:cx="309.66755"
+     inkscape:cy="455.45979"
+     inkscape:window-width="1839"
+     inkscape:window-height="1054"
+     inkscape:window-x="72"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs318">
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter5131"
+       x="-0.3833247"
+       y="-0.3229236"
+       width="1.8086806"
+       height="1.6812555">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(178,6,72)"
+         result="flood"
+         id="feFlood5121" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite5123" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="1.5"
+         result="blur"
+         id="feGaussianBlur5125" />
+      <feOffset
+         dx="0.5"
+         dy="0.5"
+         result="offset"
+         id="feOffset5127" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="out"
+         result="fbSourceGraphic"
+         id="feComposite5129" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix8073" />
+      <feFlood
+         id="feFlood8075"
+         flood-opacity="0.741176"
+         flood-color="rgb(134,24,140)"
+         result="flood"
+         in="fbSourceGraphic" />
+      <feComposite
+         in2="fbSourceGraphic"
+         id="feComposite8077"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur8079"
+         in="composite1"
+         stdDeviation="2.3"
+         result="blur" />
+      <feOffset
+         id="feOffset8081"
+         dx="0.5"
+         dy="0.5"
+         result="offset" />
+      <feComposite
+         in2="offset"
+         id="feComposite8083"
+         in="fbSourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter5131-7"
+       x="-0.3833247"
+       y="-0.3229236"
+       width="1.8086806"
+       height="1.6812555">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(178,6,72)"
+         result="flood"
+         id="feFlood5121-5" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite5123-8" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="1.5"
+         result="blur"
+         id="feGaussianBlur5125-1" />
+      <feOffset
+         dx="0.5"
+         dy="0.5"
+         result="offset"
+         id="feOffset5127-9" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="out"
+         result="fbSourceGraphic"
+         id="feComposite5129-6" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix8073-7" />
+      <feFlood
+         id="feFlood8075-0"
+         flood-opacity="0.741176"
+         flood-color="rgb(134,24,140)"
+         result="flood"
+         in="fbSourceGraphic" />
+      <feComposite
+         in2="fbSourceGraphic"
+         id="feComposite8077-4"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur8079-1"
+         in="composite1"
+         stdDeviation="2.3"
+         result="blur" />
+      <feOffset
+         id="feOffset8081-1"
+         dx="0.5"
+         dy="0.5"
+         result="offset" />
+      <feComposite
+         in2="offset"
+         id="feComposite8083-4"
+         in="fbSourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#27292b;stroke-width:0.0626287"
+       id="rect546"
+       width="14.552083"
+       height="5.2916665"
+       x="71.102226"
+       y="122.07349" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:39.454px;font-family:'Arial Nova';-inkscape-font-specification:'Arial Nova Light';fill:#86188c;stroke-width:0.287286;filter:url(#filter5131-7)"
+       x="17.854639"
+       y="40.026428"
+       id="text1004-4"
+       transform="matrix(0.11690048,0,0,0.10471157,70.226721,121.90093)"><tspan
+         sodipodi:role="line"
+         id="tspan1002-2"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:39.454px;font-family:'Arial Nova';-inkscape-font-specification:'Arial Nova Light';stroke-width:0.287286"
+         x="17.854639"
+         y="40.026428">Home</tspan></text>
+  </g>
+</svg>
