@@ -1,0 +1,15 @@
+body {
+     background: url(images/wooden.jpg) no-repeat center center fixed;
+     -webkit-background-size: cover;
+     -moz-background-size: cover;
+     -o-background-size: cover;
+     background-size: cover;
+}
+.bg-overlay {
+     background-color: rgba(0, 0, 0, 0.6) 
+}
+.rounded-img {
+    width: 70%;
+    height: 70%;
+    border-radius: 50%;
+}

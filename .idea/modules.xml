@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/xeniale-html-builder.iml" filepath="$PROJECT_DIR$/xeniale-html-builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/xeniale-html-builder.main.iml" filepath="$PROJECT_DIR$/.idea/modules/xeniale-html-builder.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/xeniale-html-builder.test.iml" filepath="$PROJECT_DIR$/.idea/modules/xeniale-html-builder.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/xeniale_ru.iml" filepath="$PROJECT_DIR$/.idea/xeniale_ru.iml" />
     </modules>
   </component>
