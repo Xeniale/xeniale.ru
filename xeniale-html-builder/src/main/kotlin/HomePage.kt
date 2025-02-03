@@ -26,7 +26,7 @@ val pageEnglishLight = pageEnglishDark.copy(theme = "light")
 
 val homePageNavbarData = NavbarData(
     brandImg = ImgData(
-        src = "logo/logo_round_xe_favicon.ico",
+        src = "logo/logo_full_pink2_final.svg",
         alt = "Logo",
         width = "30",
         height = "30"
@@ -81,10 +81,10 @@ fun basePage(basePageData: PageData, navbarData: NavbarData, block: HtmlBlockTag
                         alt = navbarData.brandImg.alt,
                         classes = "d-inline-block align-text-top"
                     ) {
-                        attributes["width"] = navbarData.brandImg.width
+//                        attributes["width"] = navbarData.brandImg.width
                         attributes["height"] = navbarData.brandImg.height
                     }
-                    +navbarData.brandText
+//                    +navbarData.brandText
                 }
                 button(classes = "navbar-toggler") {
                     attributes["type"] = "button"

@@ -6,10 +6,14 @@ body {
      background-size: cover;
 }
 .bg-overlay {
-     background-color: rgba(0, 0, 0, 0.6) 
+     --bs-bg-opacity: 0.75;
+     background-color: rgba(var(--bs-tertiary-bg-rgb),var(--bs-bg-opacity));
+}
+.bg-body-tertiary {
+     --bs-bg-opacity: 0.75;
 }
 .rounded-img {
-    width: 70%;
-    height: 70%;
-    border-radius: 50%;
+     width: 70%;
+     height: 70%;
+     border-radius: 50%;
 }
